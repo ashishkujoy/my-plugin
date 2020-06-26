@@ -1,8 +1,8 @@
-###My Plugin
+### My Plugin
 This plugin creates a Kotlin source set with name `integrationTest` and two tasks
 `integrationTest` and `cleanIntegrationTestEnvironment`.
 
-####Using locally
+#### Using locally
 For using plugin locally we first need to build and publish it locally
 
 ```bash
